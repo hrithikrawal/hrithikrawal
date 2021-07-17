@@ -23,7 +23,6 @@
 <p float="left">
 <img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/> 
 <img src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> 
-<img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
 <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>  
 <img src = "https://img.shields.io/badge/React-F7DF1E?style=for-the-badge&logo=react&logoColor=white"/> 
 <img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
