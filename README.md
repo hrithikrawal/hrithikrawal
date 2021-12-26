@@ -14,7 +14,6 @@
 🌱 I’m a web developer with a bachelor degree in Computer Application. </br>
 👨‍💻  I am passionate about Web Dev and UI design.I enjoy learning new things. </br>
 
-🔭 I’m currently looking for new opportunities </br>
 
 
 
